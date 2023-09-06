@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "first post",
+      "datetime": "aug 10, 2023 11.16.23pm",
+      "body": "study react js"
+    },
+    {
+      "id": 2,
+      "title": "second post",
+      "datetime": "aug 10, 2023 11.16.23pm",
+      "body": "study angular js"
+    },
+    {
+      "id": 3,
+      "title": "third post",
+      "datetime": "0009 05, 2023 11:09:55 AM",
+      "body": "study express js or react"
+    }
+  ]
+}
